@@ -56,12 +56,12 @@ class Arhant:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arhant04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arhant04&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhant04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhant04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="95%"/>
 
 </div>
 
@@ -72,7 +72,7 @@ class Arhant:
 > Real isometric 3D render of your contribution graph — generated automatically by a GitHub Action.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/arhant04/arhant04/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
 
 <details>
@@ -80,7 +80,7 @@ class Arhant:
 
 <br/>
 
-1. In your `YOUR_USERNAME/YOUR_USERNAME` repo, create `.github/workflows/profile-3d-contrib.yml` with:
+1. In your `arhant04/arhant04` repo, create `.github/workflows/profile-3d-contrib.yml` with:
 
 ```yaml
 name: 3D Profile Contribution Graph
@@ -99,7 +99,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          username: YOUR_USERNAME
+          username: arhant04
       - name: Commit & push
         run: |
           git config user.name github-actions
@@ -119,7 +119,7 @@ jobs:
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/arhant04/arhant04/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <br/>
@@ -127,17 +127,7 @@ jobs:
 ## 🏆 Trophy Case
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
-
-<br/>
-
-## 🎵 Now Playing
-
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=arhant04&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 </p>
 
 <br/>
@@ -145,17 +135,17 @@ jobs:
 ## 🌐 Connect
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arhant04">
 <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arhant-manhas-143840335">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 </p>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=arhant04&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 

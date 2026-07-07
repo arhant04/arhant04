@@ -1,156 +1,50 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F7FF&height=220&section=header&text=ARHANT&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Python%20Dev%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Computer+Science+Student;Python+Developer;Cybersecurity+Enthusiast;Linux+%7C+Open+Source+Learner" />
-
-</div>
-
-<br/>
-
-## 💫 About Me
-
-```python
-class Arhant:
-    def __init__(self):
-        self.role     = "Computer Science Student"
-        self.language = ["Python"]
-        self.os       = "Kali Linux"
-        self.learning = [
-            "Cybersecurity",
-            "Linux Internals",
-            "Data Structures & Algorithms"
-        ]
-        self.current_project = "Mini Sime"
-
-    def motto(self):
-        return "Learn. Build. Repeat."
-
->>> arhant = Arhant()
->>> print(arhant.motto())
-"Learn. Build. Repeat."
-```
-
-<br/>
-
-## 🚀 Current Focus
-
-```
-[■■■■■■■■■■■■■□□□□□] 65%  Building Mini Sime
-[■■■■■■■■■■■□□□□□□□] 55%  Practicing DSA daily
-[■■■■■■■■■■■■■■□□□□] 70%  Linux & Cybersecurity
-[■■■■■■□□□□□□□□□□□□] 30%  Exploring Open Source
-```
-
-<br/>
-
-## 🛠 Tech Arsenal
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,html,css,mysql&theme=dark" />
+  <img src="https://raw.githubusercontent.com/arhant04/gif-terminal/main/output.gif" width="100%">
 </p>
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arhant04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=arhant04&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhant04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arhant04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🧊 3D Contribution Grid
-
-> Real isometric 3D render of your contribution graph — generated automatically by a GitHub Action.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/arhant04/arhant04/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Building+a+Mini+SIEM;Linux+%7C+Python+%7C+SOC+Analyst;Digital+Forensics+Enthusiast" />
 </p>
 
-<details>
-<summary>⚙️ One-time setup for the 3D graph (click to expand)</summary>
+## 👋 About Me
 
-<br/>
+🎓 Computer Science Student
 
-1. In your `arhant04/arhant04` repo, create `.github/workflows/profile-3d-contrib.yml` with:
+🛡️ Interested in Cyber Security
 
-```yaml
-name: 3D Profile Contribution Graph
+⚡ Currently building a Mini SIEM
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+🐧 Daily driving Linux
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: arhant04
-      - name: Commit & push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A
-          git commit -m "Update 3D contribution graph" || exit 0
-          git push
-```
+📚 Learning
 
-2. Push it — the Action runs daily and drops SVGs into a `profile-3d-contrib/` folder in your repo.
-3. The image tag above already points at `profile-night-rainbow.svg`; swap the filename for any other style the action generates (e.g. `profile-south.svg`, `profile-day-green.svg`).
+• SIEM Development
+• Detection Engineering
+• Digital Forensics
+• SOC Operations
 
-</details>
+## ⚙️ Tech Stack
 
-<br/>
+<p>
 
-## 🐍 Contribution Snake
+<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,github,vscode,flask,redis,mysql"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/arhant04/arhant04/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-<br/>
+# 🚀 Current Project
 
-## 🏆 Trophy Case
+Mini SIEM
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arhant04&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-</p>
+✔ Log Collection
 
-<br/>
+✔ Alert Dashboard
 
-## 🌐 Connect
+✔ User Authentication
 
-<p align="center">
-<a href="https://github.com/arhant04">
-<img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/arhant-manhas-143840335">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-</p>
+✔ Elasticsearch Integration
 
-<div align="center">
+✔ Kibana Visualization
 
-<img src="https://komarev.com/ghpvc/?username=arhant04&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+✔ Threat Detection Engine
 
-<br/><br/>
-
-*"Code. Break. Learn. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>
+✔ Docker Deployment
